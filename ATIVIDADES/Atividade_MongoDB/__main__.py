@@ -37,41 +37,14 @@ if __name__ == "__main__":
                    
                interface_mongo.contrato_fun()
    
-   
-   
-   
-   
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+    
    # INSERIR DADOS NO BANCO
    # query = {'nome':'Bruno'}
    # interface_mongo.inserir(query)
-   
-
-   
+     
    # COMO DELETAR ALGO NO BANCO
    # interface_mongo.deletar({'nome':'test'})
-   
-   
+  
    # BUSCA NO BANCO NOSQL
    # print(interface_mongo.buscar())
    
