@@ -14,3 +14,13 @@ if __name__ == "__main__":
 
     fordT1.print_vel_max()
     fordT1.print_motor()
+
+
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=    
+from modules.ferrari import Ferrari
+
+#TODO: fix spelling mistakes
+if __name__ == "__main__":
+    obj1 = Ferrari()
+    obj1.set_nome("Ferrari do roberto carlos que ficou sem gasolina")
+    obj1.print_vel_max()
