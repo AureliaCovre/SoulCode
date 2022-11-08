@@ -2,7 +2,7 @@ from modules.conector import interface
 
 if __name__ == "__main__":
     try:
-        interface_banco = interface("root", "aurelia1", "127.0.0.1", "departamentos")
+        interface_banco = interface("root", " ", "127.0.0.1", "departamentos")
         
         while True:
             print("1-Criar Trigger Update \n2-Criar Trigger Delete \n3-Inserir dados \n4-Deletar dados \n5-Selecionar tabela \n0-Sair")
